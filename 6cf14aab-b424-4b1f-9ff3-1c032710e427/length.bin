@@ -1,0 +1,2 @@
+invalid type: string "\n        CREATE TABLE customers (\n            customer_id INTEGER PRIMARY KEY,\n            name TEXT NOT NULL,\n            country TEXT NOT NULL,\n            signup_date DATE NOT NULL\n        );\n        ", expected a booleanÌ0½U]A½“½ÿÿ¼/%=àU¾›=Û¯&=â˜N=øèÒ½ &,=–ì=x…½ªð< þØ»fDÐ;´rø¼]U =+Õ	<2ù»š<ôÕy=
+Ž<„Sy;uÕ!=±š:ï‡Å<ð<OXß¼‹z½:²½5Îw½®F½º	Ç<À+<&h“½8Ë’=
